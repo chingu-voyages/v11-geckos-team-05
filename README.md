@@ -1,2 +1,3 @@
 # v11-geckos-team-05
-Add-project-description-here | Voyage-11 | https://chingu.io/ | Twitter: https://twitter.com/ChinguCollabs
+Geckos Team 05 will be building a video search app with live search capability using the youTube API. 
+
